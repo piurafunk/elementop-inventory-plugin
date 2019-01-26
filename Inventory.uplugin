@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "Inventory Plugin",
+	"Description" : "Contains interfaces for mechanics related to inventory.",
+	"Category" : "GameplayComponents",
+	"CreatedBy" : "Element OP Games",
+	"CreatedByURL" : "elementopgames.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "Inventory",
+			"Type" : "Developer",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
